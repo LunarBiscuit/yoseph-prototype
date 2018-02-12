@@ -1,0 +1,2391 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1518450167010,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1ff0f436906c7afa667946701206a64",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f8849419d8f7e7e244eb35c7a55a077d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ed40024bde9f4603f14af1790ce8fc55",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d9f654a2e1a0206c1d863be60bd56922",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "80d6a3e45102fc54588f879876fc22be",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5160986273a8f6dd6429ddaabeb73a94",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "09b5e00e273e86b561cc9d7c93078f8e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.18",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.18",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ec4c1ddfa9176a186a1f64acfbf903ff",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.31",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.43",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 630,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.26",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-copy-linked-files"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.31",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ea3aa678c5d93476252c2f6dc33b78cb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.43",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 630,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.43",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "image",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.27"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "62d794b8b4c1872487263b4d537cefd6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.26",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.26",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1e87cc65edcbecb0c2a981b28618e6bb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.18",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.18",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c09c5ff43da19fb55e073fa2f19fdd97",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.27",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.27",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.19.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "27aff083adde9cf9ec0bee62e9a6f05c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "10b39a752a75890bcbefa55be07e6a3a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "sass",
+          "scss"
+        ],
+        "author": "Daniel Farrell <daniel@mobelux.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "179d722a8a98a7ece49196180900c003",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "a46ba9d956694e01c1b74b7a3153afe5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph",
+      "packageJson": {
+        "name": "yoseph-prototype",
+        "description": "Proof of concept website",
+        "version": "0.0.1",
+        "main": "n/a",
+        "keywords": [
+          "website pt personal trainer gym workout"
+        ],
+        "author": "Gareth Parker",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.118"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.27"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.28"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.14"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.9"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.33"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.8"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.21"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.14"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a662dcf796a328d904646e30e5356331",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Yoseph PT - Prototype Site",
+        "author": "Lunar Biscuit (garethparker.me)",
+        "description": "Proof of concept website for Yoseph PT"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-02-12T15:42:34.840Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "62e4d943de9e84e3111ada3a75d7dd02",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "89ef44e00969ab8635c5a6762945f58c",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-12T15:42:46.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085392,
+      "blocks": 0,
+      "atime": "2018-02-12T15:42:46.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "45ba01e000392206e8efdc1e745ef93e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world",
+      "relativePath": "hello-world",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-12T15:42:46.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts",
+      "base": "hello-world",
+      "ext": "",
+      "name": "hello-world",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085393,
+      "blocks": 0,
+      "atime": "2018-02-12T15:42:46.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "59680170b1d2d91dab0d1cf7f3f93937",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks",
+      "relativePath": "hi-folks",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-12T15:42:46.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts",
+      "base": "hi-folks",
+      "ext": "",
+      "name": "hi-folks",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085396,
+      "blocks": 0,
+      "atime": "2018-02-12T15:42:46.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a6217fa9576507514b4aa6ac8d1eaff9",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post",
+      "relativePath": "my-second-post",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-12T15:42:46.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts",
+      "base": "my-second-post",
+      "ext": "",
+      "name": "my-second-post",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085398,
+      "blocks": 0,
+      "atime": "2018-02-12T15:42:46.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fef193964fc7c139bea1d17dad270f09",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md",
+      "relativePath": "my-second-post/index.md",
+      "extension": "md",
+      "size": 403,
+      "prettySize": "403 B",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-10T13:56:04.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "my-second-post",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085399,
+      "blocks": 8,
+      "atime": "2018-02-10T13:56:04.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "72293c460c59ab906d3e224a7a2c9ebb",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 866,
+      "prettySize": "866 B",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-10T13:56:04.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085394,
+      "blocks": 8,
+      "atime": "2018-02-10T13:56:04.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "02e333427bb8c7b38214ad21a4a27e26",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md",
+      "relativePath": "hi-folks/index.md",
+      "extension": "md",
+      "size": 5495,
+      "prettySize": "5.5 kB",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-10T13:56:04.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hi-folks",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085397,
+      "blocks": 16,
+      "atime": "2018-02-10T13:56:04.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: My Second Post!\ndate: \"2015-05-06T23:46:37.121Z\"\npath: \"/my-second-post/\"\n---\n\nWow! I love blogging so much already.\n\nDid you know that \"despite its name, salted duck eggs can also be made from chicken eggs, though the taste and texture will be somewhat different, and the egg yolk will be less rich.\"? ([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))\n\nYeah, I didn't either.\n",
+        "contentDigest": "2779585c6a896d62b199d900c3f581f5",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Second Post!",
+        "date": "2015-05-06T23:46:37.121Z",
+        "path": "/my-second-post/",
+        "_PARENT": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file",
+        "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Hello World\ndate: \"2015-05-01T22:12:03.284Z\"\npath: \"/hello-world/\"\n---\n\nThis is my first post on my new fake blog! How exciting!\n\nI'm sure I'll write a lot more interesting things in the future.\n\nOh, and here's a great quote from this Wikipedia on [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).\n\n>A salted duck egg is a Chinese preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.\n\n![Chinese Salty Egg](./salty_egg.jpg)\n",
+        "contentDigest": "dc31178611ff7999fd54c12b1b59130f",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello World",
+        "date": "2015-05-01T22:12:03.284Z",
+        "path": "/hello-world/",
+        "_PARENT": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file",
+        "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: New Beginnings\ndate: \"2015-05-28T22:40:32.169Z\"\npath: \"/hi-folks/\"\n---\n\nFar far away, behind the word mountains, far from the countries Vokalia\nand Consonantia, there live the blind texts. Separated they live in\nBookmarksgrove right at the coast of the Semantics, a large language\nocean. A small river named Duden flows by their place and supplies it\nwith the necessary regelialia.\n\n## On deer horse aboard tritely yikes and much\n\nThe Big Oxmox advised her not to do so, because there were thousands of\nbad Commas, wild Question Marks and devious Semikoli, but the Little\nBlind Text didn’t listen. She packed her seven versalia, put her initial\ninto the belt and made herself on the way.\n\n*   This however showed weasel\n*   Well uncritical so misled\n    *   this is very interesting\n*   Goodness much until that fluid owl\n\nWhen she reached the first hills of the **Italic Mountains**, she\nhad a last view back on the skyline of her\nhometown _Bookmarksgrove_, the headline of [Alphabet\nVillage](http://google.com) and the subline of her own road, the\nLine Lane. Pityful a rethoric question ran over her cheek, then she\ncontinued her way. On her way she met a copy.\n\n### Overlaid the jeepers uselessly much excluding\n\nBut nothing the copy said could convince her and so it didn’t take\nlong until a few insidious Copy Writers ambushed her, made her drunk\nwith [Longe and Parole](http://google.com) and dragged her into\ntheir agency, where they abused her for their projects again and\nagain. And if she hasn’t been rewritten, then they are still using\nher.\n\n> Far far away, behind the word mountains, far from the countries\n> Vokalia and Consonantia, there live the blind texts. Separated\n> they live in Bookmarksgrove right at the coast of the Semantics, a\n> large language ocean. \n\nIt is a paradisematic country, in which roasted parts of sentences\nfly into your mouth. Even the all-powerful Pointing has no control\nabout the blind texts it is an almost unorthographic life One day\nhowever a small line of blind text by the name of Lorem Ipsum\ndecided to leave for the far World of Grammar.\n\n### According a funnily until pre-set or arrogant well cheerful\n\nThe Big Oxmox advised her not to do so, because there were thousands\nof bad Commas, wild Question Marks and devious Semikoli, but the\nLittle Blind Text didn’t listen. She packed her seven versalia, put\nher initial into the belt and made herself on the way.\n\n1.  So baboon this\n2.  Mounted militant weasel gregariously admonishingly straightly hey\n3.  Dear foresaw hungry and much some overhung\n4.  Rash opossum less because less some amid besides yikes jeepers frenetic impassive fruitlessly shut\n\nWhen she reached the first hills of the Italic Mountains, she had a\nlast view back on the skyline of her hometown Bookmarksgrove, the\nheadline of Alphabet Village and the subline of her own road, the\nLine Lane. Pityful a rethoric question ran over her cheek, then she\ncontinued her way. On her way she met a copy.\n\n> The copy warned the Little Blind Text, that where it came from it\n> would have been rewritten a thousand times and everything that was\n> left from its origin would be the word \"and\" and the Little Blind\n> Text should turn around and return to its own, safe country.\n\nBut nothing the copy said could convince her and so it didn’t take\nlong until a few insidious Copy Writers ambushed her, made her drunk\nwith Longe and Parole and dragged her into their agency, where they\nabused her for their projects again and again. And if she hasn’t\nbeen rewritten, then they are still using her. Far far away, behind\nthe word mountains, far from the countries Vokalia and Consonantia,\nthere live the blind texts.\n\n#### Silent delightfully including because before one up barring chameleon\n\nSeparated they live in Bookmarksgrove right at the coast of the\nSemantics, a large language ocean. A small river named Duden flows\nby their place and supplies it with the necessary regelialia. It is\na paradisematic country, in which roasted parts of sentences fly\ninto your mouth.\n\nEven the all-powerful Pointing has no control about the blind texts\nit is an almost unorthographic life One day however a small line of\nblind text by the name of Lorem Ipsum decided to leave for the far\nWorld of Grammar. The Big Oxmox advised her not to do so, because\nthere were thousands of bad Commas, wild Question Marks and devious\nSemikoli, but the Little Blind Text didn’t listen.\n\n##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along\n\nShe packed her seven versalia, put her initial into the belt and\nmade herself on the way. When she reached the first hills of the\nItalic Mountains, she had a last view back on the skyline of her\nhometown Bookmarksgrove, the headline of Alphabet Village and the\nsubline of her own road, the Line Lane. Pityful a rethoric question\nran over her cheek, then she continued her way. On her way she met a\ncopy.\n\n###### Slapped cozy a that lightheartedly and far\n\nThe copy warned the Little Blind Text, that where it came from it\nwould have been rewritten a thousand times and everything that was\nleft from its origin would be the word \"and\" and the Little Blind\nText should turn around and return to its own, safe country. But\nnothing the copy said could convince her and so it didn’t take long\nuntil a few insidious Copy Writers ambushed her, made her drunk with\nLonge and Parole and dragged her into their agency, where they\nabused her for their projects again and again.\n",
+        "contentDigest": "58a23077592a4e77674bd35dafeb56db",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "New Beginnings",
+        "date": "2015-05-28T22:40:32.169Z",
+        "path": "/hi-folks/",
+        "_PARENT": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file",
+        "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/salty_egg.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/salty_egg.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8058f3f26913fea3b6a89a73344fe94a",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/salty_egg.jpg",
+      "relativePath": "hello-world/salty_egg.jpg",
+      "extension": "jpg",
+      "size": 684322,
+      "prettySize": "684 kB",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-10T13:56:04.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world",
+      "base": "salty_egg.jpg",
+      "ext": ".jpg",
+      "name": "salty_egg",
+      "relativeDirectory": "hello-world",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085395,
+      "blocks": 1344,
+      "atime": "2018-02-10T13:56:04.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/salty_egg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "8058f3f26913fea3b6a89a73344fe94a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6db424f95928a8012fa94771ef79d408",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 544,
+      "prettySize": "544 B",
+      "modifiedTime": "2018-02-10T15:11:29.000Z",
+      "accessTime": "2018-02-12T15:42:46.000Z",
+      "changeTime": "2018-02-10T15:11:29.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 16,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085333,
+      "blocks": 0,
+      "atime": "2018-02-12T15:42:46.000Z",
+      "mtime": "2018-02-10T15:11:29.000Z",
+      "ctime": "2018-02-10T15:11:29.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic04.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic04.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic04.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2cc4fac0e58ece62800915b6dc19e5b7",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic04.jpg",
+      "relativePath": "pic04.jpg",
+      "extension": "jpg",
+      "size": 3734960,
+      "prettySize": "3.73 MB",
+      "modifiedTime": "2018-02-10T14:53:05.000Z",
+      "accessTime": "2018-02-10T14:53:14.000Z",
+      "changeTime": "2018-02-10T14:53:05.000Z",
+      "birthTime": "2018-02-10T14:53:03.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic04.jpg",
+      "ext": ".jpg",
+      "name": "pic04",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7125473,
+      "blocks": 7296,
+      "atime": "2018-02-10T14:53:14.000Z",
+      "mtime": "2018-02-10T14:53:05.000Z",
+      "ctime": "2018-02-10T14:53:05.000Z",
+      "birthtime": "2018-02-10T14:53:03.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic05.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic05.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic05.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "47dae96b27721534ecb0d2051f8fb06f",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic05.jpg",
+      "relativePath": "pic05.jpg",
+      "extension": "jpg",
+      "size": 1484234,
+      "prettySize": "1.48 MB",
+      "modifiedTime": "2018-02-10T14:52:15.000Z",
+      "accessTime": "2018-02-10T14:52:38.000Z",
+      "changeTime": "2018-02-10T14:52:15.000Z",
+      "birthTime": "2018-02-10T14:52:14.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic05.jpg",
+      "ext": ".jpg",
+      "name": "pic05",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7125369,
+      "blocks": 2904,
+      "atime": "2018-02-10T14:52:38.000Z",
+      "mtime": "2018-02-10T14:52:15.000Z",
+      "ctime": "2018-02-10T14:52:15.000Z",
+      "birthtime": "2018-02-10T14:52:14.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic07.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic07.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic07.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "629ab62f6ddb5d5b5d903cbd4343aa99",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic07.jpg",
+      "relativePath": "pic07.jpg",
+      "extension": "jpg",
+      "size": 126687,
+      "prettySize": "127 kB",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-10T13:56:04.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic07.jpg",
+      "ext": ".jpg",
+      "name": "pic07",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085341,
+      "blocks": 248,
+      "atime": "2018-02-10T13:56:04.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic06.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic06.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic06.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a77439384399232bc47d7c8e75c124b5",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic06.jpg",
+      "relativePath": "pic06.jpg",
+      "extension": "jpg",
+      "size": 2837965,
+      "prettySize": "2.84 MB",
+      "modifiedTime": "2018-02-10T15:11:19.000Z",
+      "accessTime": "2018-02-10T15:11:29.000Z",
+      "changeTime": "2018-02-10T15:11:19.000Z",
+      "birthTime": "2018-02-10T15:11:18.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic06.jpg",
+      "ext": ".jpg",
+      "name": "pic06",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7126485,
+      "blocks": 5544,
+      "atime": "2018-02-10T15:11:29.000Z",
+      "mtime": "2018-02-10T15:11:19.000Z",
+      "ctime": "2018-02-10T15:11:19.000Z",
+      "birthtime": "2018-02-10T15:11:18.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic09.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic09.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic09.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d59e4b49832baeb9c62a7a9d6c070f8c",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic09.jpg",
+      "relativePath": "pic09.jpg",
+      "extension": "jpg",
+      "size": 85946,
+      "prettySize": "85.9 kB",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-10T13:56:04.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic09.jpg",
+      "ext": ".jpg",
+      "name": "pic09",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085343,
+      "blocks": 168,
+      "atime": "2018-02-10T13:56:04.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic04.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic04.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic04.jpg absPath of file",
+      "internal": {
+        "contentDigest": "2cc4fac0e58ece62800915b6dc19e5b7",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic05.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic05.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic05.jpg absPath of file",
+      "internal": {
+        "contentDigest": "47dae96b27721534ecb0d2051f8fb06f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic07.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic07.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic07.jpg absPath of file",
+      "internal": {
+        "contentDigest": "629ab62f6ddb5d5b5d903cbd4343aa99",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic06.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic06.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic06.jpg absPath of file",
+      "internal": {
+        "contentDigest": "a77439384399232bc47d7c8e75c124b5",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic11.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic11.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic11.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d02e84dbe914c61cfe414196a1ae8fd1",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic11.jpg",
+      "relativePath": "pic11.jpg",
+      "extension": "jpg",
+      "size": 803429,
+      "prettySize": "803 kB",
+      "modifiedTime": "2018-02-10T14:54:25.000Z",
+      "accessTime": "2018-02-10T14:54:35.000Z",
+      "changeTime": "2018-02-10T14:54:25.000Z",
+      "birthTime": "2018-02-10T14:54:25.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic11.jpg",
+      "ext": ".jpg",
+      "name": "pic11",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7125734,
+      "blocks": 1576,
+      "atime": "2018-02-10T14:54:35.000Z",
+      "mtime": "2018-02-10T14:54:25.000Z",
+      "ctime": "2018-02-10T14:54:25.000Z",
+      "birthtime": "2018-02-10T14:54:25.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic09.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic09.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic09.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d59e4b49832baeb9c62a7a9d6c070f8c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic11.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic11.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic11.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d02e84dbe914c61cfe414196a1ae8fd1",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic10.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic10.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic10.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "debbf9a17040ad96c55bf3a7309f5c46",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic10.jpg",
+      "relativePath": "pic10.jpg",
+      "extension": "jpg",
+      "size": 4698718,
+      "prettySize": "4.7 MB",
+      "modifiedTime": "2018-02-10T14:53:32.000Z",
+      "accessTime": "2018-02-10T14:53:45.000Z",
+      "changeTime": "2018-02-10T14:53:33.000Z",
+      "birthTime": "2018-02-10T14:53:30.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic10.jpg",
+      "ext": ".jpg",
+      "name": "pic10",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7125523,
+      "blocks": 9184,
+      "atime": "2018-02-10T14:53:45.000Z",
+      "mtime": "2018-02-10T14:53:32.000Z",
+      "ctime": "2018-02-10T14:53:33.000Z",
+      "birthtime": "2018-02-10T14:53:30.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/banner.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/banner.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/banner.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "22e3335cf4be5dddb7a51870b0e3203f",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/banner.jpg",
+      "relativePath": "banner.jpg",
+      "extension": "jpg",
+      "size": 331144,
+      "prettySize": "331 kB",
+      "modifiedTime": "2018-02-10T13:56:04.000Z",
+      "accessTime": "2018-02-10T13:56:04.000Z",
+      "changeTime": "2018-02-10T13:56:04.000Z",
+      "birthTime": "2018-02-10T13:56:04.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "banner.jpg",
+      "ext": ".jpg",
+      "name": "banner",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7085334,
+      "blocks": 648,
+      "atime": "2018-02-10T13:56:04.000Z",
+      "mtime": "2018-02-10T13:56:04.000Z",
+      "ctime": "2018-02-10T13:56:04.000Z",
+      "birthtime": "2018-02-10T13:56:04.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic10.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic10.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic10.jpg absPath of file",
+      "internal": {
+        "contentDigest": "debbf9a17040ad96c55bf3a7309f5c46",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/banner.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/banner.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/banner.jpg absPath of file",
+      "internal": {
+        "contentDigest": "22e3335cf4be5dddb7a51870b0e3203f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/jesper.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/jesper.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/jesper.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f4affb79af82235a70fbbb56e2c8a02c",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/jesper.jpg",
+      "relativePath": "jesper.jpg",
+      "extension": "jpg",
+      "size": 5624514,
+      "prettySize": "5.62 MB",
+      "modifiedTime": "2018-02-10T14:30:48.000Z",
+      "accessTime": "2018-02-10T14:31:34.000Z",
+      "changeTime": "2018-02-10T14:31:20.000Z",
+      "birthTime": "2018-02-10T14:30:47.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "jesper.jpg",
+      "ext": ".jpg",
+      "name": "jesper",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7124584,
+      "blocks": 10992,
+      "atime": "2018-02-10T14:31:34.000Z",
+      "mtime": "2018-02-10T14:30:48.000Z",
+      "ctime": "2018-02-10T14:31:20.000Z",
+      "birthtime": "2018-02-10T14:30:47.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/jesper.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/jesper.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/jesper.jpg absPath of file",
+      "internal": {
+        "contentDigest": "f4affb79af82235a70fbbb56e2c8a02c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/sam.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/sam.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/sam.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "67b1f704b937c5632898d8683a301af2",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/sam.jpg",
+      "relativePath": "sam.jpg",
+      "extension": "jpg",
+      "size": 2897243,
+      "prettySize": "2.9 MB",
+      "modifiedTime": "2018-02-10T14:30:54.000Z",
+      "accessTime": "2018-02-10T14:31:37.000Z",
+      "changeTime": "2018-02-10T14:31:20.000Z",
+      "birthTime": "2018-02-10T14:30:53.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "sam.jpg",
+      "ext": ".jpg",
+      "name": "sam",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7124583,
+      "blocks": 5664,
+      "atime": "2018-02-10T14:31:37.000Z",
+      "mtime": "2018-02-10T14:30:54.000Z",
+      "ctime": "2018-02-10T14:31:20.000Z",
+      "birthtime": "2018-02-10T14:30:53.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/sam.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/sam.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/sam.jpg absPath of file",
+      "internal": {
+        "contentDigest": "67b1f704b937c5632898d8683a301af2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/webb.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/webb.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/webb.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "462527356c73ae5897582d2fdb2c8847",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/webb.jpg",
+      "relativePath": "webb.jpg",
+      "extension": "jpg",
+      "size": 643545,
+      "prettySize": "644 kB",
+      "modifiedTime": "2018-02-10T14:30:42.000Z",
+      "accessTime": "2018-02-10T14:31:47.000Z",
+      "changeTime": "2018-02-10T14:31:40.000Z",
+      "birthTime": "2018-02-10T14:30:42.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "webb.jpg",
+      "ext": ".jpg",
+      "name": "webb",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7124585,
+      "blocks": 1264,
+      "atime": "2018-02-10T14:31:47.000Z",
+      "mtime": "2018-02-10T14:30:42.000Z",
+      "ctime": "2018-02-10T14:31:40.000Z",
+      "birthtime": "2018-02-10T14:30:42.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/webb.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/webb.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/webb.jpg absPath of file",
+      "internal": {
+        "contentDigest": "462527356c73ae5897582d2fdb2c8847",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/.DS_Store absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "374f7957967ce92028a4c0c874c9817a",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-02-10T15:11:34.000Z",
+      "accessTime": "2018-02-10T15:11:34.000Z",
+      "changeTime": "2018-02-10T15:11:34.000Z",
+      "birthTime": "2018-02-10T14:52:36.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7125397,
+      "blocks": 16,
+      "atime": "2018-02-10T15:11:34.000Z",
+      "mtime": "2018-02-10T15:11:34.000Z",
+      "ctime": "2018-02-10T15:11:34.000Z",
+      "birthtime": "2018-02-10T14:52:36.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic08.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic08.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic08.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fae275667b3535e62984f51be873df42",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic08.jpg",
+      "relativePath": "pic08.jpg",
+      "extension": "jpg",
+      "size": 3006148,
+      "prettySize": "3.01 MB",
+      "modifiedTime": "2018-02-10T14:56:17.000Z",
+      "accessTime": "2018-02-10T14:57:52.000Z",
+      "changeTime": "2018-02-10T14:57:39.000Z",
+      "birthTime": "2018-02-10T14:56:16.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic08.jpg",
+      "ext": ".jpg",
+      "name": "pic08",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7125870,
+      "blocks": 5872,
+      "atime": "2018-02-10T14:57:52.000Z",
+      "mtime": "2018-02-10T14:56:17.000Z",
+      "ctime": "2018-02-10T14:57:39.000Z",
+      "birthtime": "2018-02-10T14:56:16.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic08.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic08.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic08.jpg absPath of file",
+      "internal": {
+        "contentDigest": "fae275667b3535e62984f51be873df42",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic03.jpg absPath of file": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic03.jpg absPath of file",
+      "children": [
+        "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic03.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9cdd50185931c8048048f53ce0c098fb",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic03.jpg",
+      "relativePath": "pic03.jpg",
+      "extension": "jpg",
+      "size": 3452795,
+      "prettySize": "3.45 MB",
+      "modifiedTime": "2018-02-10T14:55:44.000Z",
+      "accessTime": "2018-02-10T14:58:07.000Z",
+      "changeTime": "2018-02-10T14:57:29.000Z",
+      "birthTime": "2018-02-10T14:55:43.000Z",
+      "root": "/",
+      "dir": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images",
+      "base": "pic03.jpg",
+      "ext": ".jpg",
+      "name": "pic03",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7125820,
+      "blocks": 6744,
+      "atime": "2018-02-10T14:58:07.000Z",
+      "mtime": "2018-02-10T14:55:44.000Z",
+      "ctime": "2018-02-10T14:57:29.000Z",
+      "birthtime": "2018-02-10T14:55:43.000Z"
+    },
+    "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic03.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic03.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/assets/images/pic03.jpg absPath of file",
+      "internal": {
+        "contentDigest": "9cdd50185931c8048048f53ce0c098fb",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /my-second-post/": {
+      "layout": "index",
+      "jsonName": "my-second-post.json",
+      "internalComponentName": "ComponentMySecondPost",
+      "path": "/my-second-post/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/my-second-post/"
+      },
+      "updatedAt": 1518450166999,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/templates/blog-post.js",
+      "id": "SitePage /my-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0c42687e9358eabf716b0a2ea1cb5972",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/hello-world/"
+      },
+      "updatedAt": 1518450167001,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0eb2ca58606b64fdd54e42c098441241",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hi-folks/": {
+      "layout": "index",
+      "jsonName": "hi-folks.json",
+      "internalComponentName": "ComponentHiFolks",
+      "path": "/hi-folks/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/hi-folks/"
+      },
+      "updatedAt": 1518450167002,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/templates/blog-post.js",
+      "id": "SitePage /hi-folks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6b2ca8f9e6ae56c50bd2cc74f1d40cb2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /elements/": {
+      "layout": "index",
+      "jsonName": "elements.json",
+      "internalComponentName": "ComponentElements",
+      "path": "/elements/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/elements.js",
+      "componentChunkName": "component---src-pages-elements-js",
+      "context": {},
+      "updatedAt": 1518450167015,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/elements.js",
+      "id": "SitePage /elements/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "32e09813ef446e467e82de1098a63ff7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /generic/": {
+      "layout": "index",
+      "jsonName": "generic.json",
+      "internalComponentName": "ComponentGeneric",
+      "path": "/generic/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/generic.js",
+      "componentChunkName": "component---src-pages-generic-js",
+      "context": {},
+      "updatedAt": 1518450167034,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/generic.js",
+      "id": "SitePage /generic/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "742706e4245ef1d11f5fd2de877e4a1e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1518450167036,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fa0edbe2fbe073954f29ea88da1c73a4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /landing/": {
+      "layout": "index",
+      "jsonName": "landing.json",
+      "internalComponentName": "ComponentLanding",
+      "path": "/landing/",
+      "component": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/landing.js",
+      "componentChunkName": "component---src-pages-landing-js",
+      "context": {},
+      "updatedAt": 1518450167037,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/pages/landing.js",
+      "id": "SitePage /landing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d9c1e4f46f4e47c14911504ca0b12407",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "53d2ddeb4309a012e886703762c2ae03"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/hi-folks/",
+        "/hello-world/",
+        "/my-second-post/",
+        "/"
+      ],
+      "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark": [
+        "/hi-folks/"
+      ],
+      "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world/"
+      ],
+      "/Users/garethparkeradmin/Documents/Projects/SITES/yoseph/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
+        "/my-second-post/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
